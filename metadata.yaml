@@ -1,0 +1,36 @@
+_repo: Ancient-Streets-and-Homesteads-of-England_53230
+_version: 0.0.1
+contributor:
+  engineer:
+    agent_name: Cooper, James Davis
+    aliases:
+    - Cooper, J. D. (James Davis)
+    - Cooper, J. (James)
+    birthdate: 1823
+    deathdate: 1904
+    gutenberg_agent_id: '47995'
+    url: http://www.gutenberg.org/2009/agents/47995
+creator:
+  author:
+    agent_name: Rimmer, Alfred
+    birthdate: 1829
+    deathdate: 1893
+    gutenberg_agent_id: '47276'
+    url: http://www.gutenberg.org/2009/agents/47276
+description: Illustrations drawn by the author; engraved by J.D. Cooper.
+gutenberg_issued: '2016-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53230'
+  lccn: '03002306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Historic buildings -- England'
+- !lcsh 'England -- Description and travel'
+- GITenberg
+title: Ancient Streets and Homesteads of England
+url: http://www.gutenberg.org/ebooks/53230
